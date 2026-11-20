@@ -1,0 +1,17 @@
+{
+  "notes": [
+    "首页快捷工具与扫描件",
+    "会话画图确认与定时任务",
+    "支持校验候选更新"
+  ],
+  "channel": "beta",
+  "minVersionCode": 1,
+  "packageId": "local.workbench.candidate",
+  "versionCode": 9,
+  "versionName": "0.3.2-candidate.9",
+  "apk": {
+    "url": "CenterNashi-0.3.2-candidate.9.apk",
+    "sha256": "31681eef74449ac5f41e4a0354134b868d0f071b255a93ad852849fcbaebb927",
+    "size": 1761953
+  }
+}
