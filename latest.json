@@ -1,17 +1,17 @@
 {
   "notes": [
-    "开屏图标停留更久，问候语逐行淡入",
-    "拍后直接预览裁正净白的扫描件",
-    "可检查小字、调整纸边和旋转，再保存成稿"
+    "四套皮肤均支持浅色和深色，可调整字号",
+    "项目工作流收进抽屉，验收入口跟随任务回复",
+    "语音输入增加动态波形，GPT 联系人展示实际通道"
   ],
   "channel": "beta",
   "minVersionCode": 1,
   "packageId": "local.workbench.candidate",
-  "versionCode": 11,
-  "versionName": "0.3.2-candidate.11",
+  "versionCode": 12,
+  "versionName": "0.3.2-candidate.12",
   "apk": {
-    "url": "CenterNashi-0.3.2-candidate.11.apk",
-    "sha256": "b7c19ee009df74551f5272f52aaa0ee5cf489071af06263ea9e2e30fa540d44e",
-    "size": 1790625
+    "url": "CenterNashi-0.3.2-candidate.12.apk",
+    "sha256": "be7a2e3ba75225ef85ccd7cef6933a2c4fe2e3a1da53bbe42c16de5daa94e17c",
+    "size": 1794721
   }
 }
