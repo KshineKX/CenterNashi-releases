@@ -7,11 +7,11 @@
   "channel": "beta",
   "minVersionCode": 1,
   "packageId": "local.workbench.candidate",
-  "versionCode": 9,
-  "versionName": "0.3.2-candidate.9",
+  "versionCode": 10,
+  "versionName": "0.3.2-candidate.10",
   "apk": {
-    "url": "CenterNashi-0.3.2-candidate.9.apk",
-    "sha256": "31681eef74449ac5f41e4a0354134b868d0f071b255a93ad852849fcbaebb927",
-    "size": 1761953
+    "url": "CenterNashi-0.3.2-candidate.10.apk",
+    "sha256": "e8f657de5f85b221edcf02e2b41657f2be8ded25f59d526b4092feadc5e29a6a",
+    "size": 1786529
   }
 }
