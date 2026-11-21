@@ -1,16 +1,16 @@
 {
   "notes": [
-    "联系人名字与日期对齐，消息预览单行显示",
-    "外观采用 B 方案，支持星航与终端的新样式"
+    "会议录音支持收起面板、分段转写和校对，纪要可从侧栏找回",
+    "模型面板按型号显示思考档位，新增进阶设置和电脑会话配对"
   ],
   "channel": "beta",
   "minVersionCode": 1,
   "packageId": "local.workbench.candidate",
-  "versionCode": 14,
-  "versionName": "0.3.2-candidate.13",
+  "versionCode": 16,
+  "versionName": "0.3.2-candidate.14",
   "apk": {
-    "url": "CenterNashi-0.3.2-candidate.13.apk",
-    "sha256": "38853271ecde822b32081017f8f226345073d59ee486533672e4bfc3be66872a",
-    "size": 1794721
+    "url": "CenterNashi-0.3.2-candidate.14.apk",
+    "sha256": "780262dc8425bb13c1c9ba4f9432645e5c7145545a7a01475d2990fd63853d3a",
+    "size": 1929889
   }
 }
