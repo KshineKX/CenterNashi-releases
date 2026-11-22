@@ -1,16 +1,17 @@
 {
   "notes": [
-    "会议录音支持收起面板、分段转写和校对，纪要可从侧栏找回",
-    "模型面板按型号显示思考档位，新增进阶设置和电脑会话配对"
+    "选头像即可建群，支持四个场景、会议和最近群聊",
+    "每位内置伙伴使用本家模型，模型卡可横向浏览",
+    "新增自动化入口和极简白浅深色外观"
   ],
   "channel": "beta",
   "minVersionCode": 1,
   "packageId": "local.workbench.candidate",
-  "versionCode": 16,
-  "versionName": "0.3.2-candidate.14",
+  "versionCode": 19,
+  "versionName": "0.3.2-candidate.15",
   "apk": {
-    "url": "CenterNashi-0.3.2-candidate.14.apk",
-    "sha256": "780262dc8425bb13c1c9ba4f9432645e5c7145545a7a01475d2990fd63853d3a",
-    "size": 1929889
+    "url": "CenterNashi-0.3.2-candidate.15.apk",
+    "sha256": "606aa413f78e24e6f743c746b51063d9119f64c63654012dda1142b1d45dd5fa",
+    "size": 1954465
   }
 }
