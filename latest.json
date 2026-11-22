@@ -1,17 +1,17 @@
 {
   "notes": [
-    "选头像即可建群，支持四个场景、会议和最近群聊",
-    "每位内置伙伴使用本家模型，模型卡可横向浏览",
-    "新增自动化入口和极简白浅深色外观"
+    "精简侧栏并支持自定义、头像、置顶与移除",
+    "改进手机搜索框和群聊模型选择",
+    "自动化可直接设置闹钟或日程并查看系统处理结果"
   ],
   "channel": "beta",
   "minVersionCode": 1,
   "packageId": "local.workbench.candidate",
-  "versionCode": 19,
-  "versionName": "0.3.2-candidate.15",
+  "versionCode": 20,
+  "versionName": "0.3.2-candidate.16",
   "apk": {
-    "url": "CenterNashi-0.3.2-candidate.15.apk",
-    "sha256": "606aa413f78e24e6f743c746b51063d9119f64c63654012dda1142b1d45dd5fa",
-    "size": 1954465
+    "url": "CenterNashi-0.3.2-candidate.16.apk",
+    "sha256": "b19b9526291af748a2ebe29293e5a593fed818b120c6309a4358b6679fcd4b78",
+    "size": 1962657
   }
 }
