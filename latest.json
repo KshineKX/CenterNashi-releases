@@ -1,17 +1,17 @@
 {
   "notes": [
-    "精简侧栏并支持自定义、头像、置顶与移除",
-    "改进手机搜索框和群聊模型选择",
-    "自动化可直接设置闹钟或日程并查看系统处理结果"
+    "聊天点「＋」选「照片」，一次最多选 9 张",
+    "发送前可预览、移除或追加照片，和问题一起发给模型",
+    "更新首页、伙伴单聊、模型选择和画图确认界面"
   ],
   "channel": "beta",
   "minVersionCode": 1,
   "packageId": "local.workbench.candidate",
-  "versionCode": 20,
-  "versionName": "0.3.2-candidate.16",
+  "versionCode": 22,
+  "versionName": "0.3.2-candidate.17",
   "apk": {
-    "url": "CenterNashi-0.3.2-candidate.16.apk",
-    "sha256": "b19b9526291af748a2ebe29293e5a593fed818b120c6309a4358b6679fcd4b78",
-    "size": 1962657
+    "url": "CenterNashi-0.3.2-candidate.17.apk",
+    "sha256": "50e62ff2e7f75c303f7de5c5529560c61e6407be2d6926fa17afe8074e68abaa",
+    "size": 1970849
   }
 }
